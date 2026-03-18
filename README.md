@@ -537,7 +537,7 @@ After completing this assignment, I plan to:
 
 ---
 
-**GitHub Repository**: https://github.com/YOUR-USERNAME/cloud-computing-basics
+**GitHub Repository**: https://github.com/Paul-D3v/cloud-computing-basics
 
 **Date Completed**: March 2026  
 **Assignment Status**: ✅ Complete
