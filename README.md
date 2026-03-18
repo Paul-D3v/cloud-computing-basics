@@ -1,7 +1,7 @@
 # Cloud Computing Basics Assignment
 
 **Course:** Cloud Computing  
-**Student:** [Your Name]  
+**Student:** Paul Umeh  
 **Date:** March 2026  
 **Assignment:** Introduction to Cloud Computing
 
